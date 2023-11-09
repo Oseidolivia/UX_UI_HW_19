@@ -184,6 +184,9 @@ h5{
     cursor: pointer;
   }
 
+a{
+    color: white;
+}
 .button1{
     background-color: #5f2e48;
     color: white;
